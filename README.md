@@ -37,6 +37,7 @@ Look at these resources as generalized, transferable examples that illustrate sk
 ### Google
 
 - https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
+- https://services.google.com/fh/files/misc/startup_technical_guide_ai_agents_final.pdf
 - https://ai.google.dev/gemini-api/docs/prompting-strategies
 - https://deepmind.google
 - [VertexAI Prompt Optimizer](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-optimizer)
@@ -64,4 +65,5 @@ Look at these resources as generalized, transferable examples that illustrate sk
 - https://www.promptingguide.ai
 - [Chat GPT-5 Prompting - Nate B Jones](https://www.youtube.com/watch?v=hvTGYMq3pfg)
 - https://cognition.ai/blog/dont-build-multi-agents
+
 - https://research.trychroma.com/context-rot
