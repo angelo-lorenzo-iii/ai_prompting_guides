@@ -65,5 +65,4 @@ Look at these resources as generalized, transferable examples that illustrate sk
 - https://www.promptingguide.ai
 - [Chat GPT-5 Prompting - Nate B Jones](https://www.youtube.com/watch?v=hvTGYMq3pfg)
 - https://cognition.ai/blog/dont-build-multi-agents
-
 - https://research.trychroma.com/context-rot
