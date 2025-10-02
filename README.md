@@ -25,6 +25,8 @@ Look at these resources as generalized, transferable examples that illustrate sk
 - https://platform.openai.com/docs/guides/prompt-engineering
 - https://cookbook.openai.com
 - https://cookbook.openai.com/examples/optimize_prompts
+- https://academy.openai.com
+- [Prompt Packs](https://academy.openai.com/public/tags/prompt-packs-6849a0f98c613939acef841c)
 - https://openai.com/news/research/
 - [Prompt Optimizer](https://platform.openai.com/playground/prompts)
 
@@ -66,3 +68,4 @@ Look at these resources as generalized, transferable examples that illustrate sk
 - [Chat GPT-5 Prompting - Nate B Jones](https://www.youtube.com/watch?v=hvTGYMq3pfg)
 - https://cognition.ai/blog/dont-build-multi-agents
 - https://research.trychroma.com/context-rot
+
