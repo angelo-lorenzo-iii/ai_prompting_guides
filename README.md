@@ -67,7 +67,7 @@ Look at these resources as generalized, transferable examples that illustrate sk
 
 - https://www.promptingguide.ai
 - [Chat GPT-5 Prompting - Nate B Jones](https://www.youtube.com/watch?v=hvTGYMq3pfg)
+- [Beyond Vector Search: Knowledge Management with Generative AI - David Shapiro](https://www.youtube.com/watch?v=YjdmYCd6y0M)
+	- [Sparse Priming Representations (SPR)](https://github.com/daveshap/SparsePrimingRepresentations)
 - https://cognition.ai/blog/dont-build-multi-agents
 - https://research.trychroma.com/context-rot
-
-
